@@ -32,14 +32,14 @@ jobs:
           python scrape_india_news_trending.py \
             --site all \
             --headless \
-            --out_csv web/india_trending.csv \
-            --out_json web/india_trending.json \
-            --out_html web/index.html
+            --out_csv ../docs/india_trending.csv \
+            --out_json ../docs/india_trending.json \
+            --out_html ../docs/index.html
 
       - name: Commit updated artifacts
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news-track-upload/web/india_trending.csv news-track-upload/web/india_trending.json news-track-upload/web/index.html
+          git add docs/index.html docs/india_trending.csv docs/india_trending.json
           git diff --cached --quiet || git commit -m "Refresh dashboard data"
           git push
