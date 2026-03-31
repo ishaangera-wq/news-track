@@ -32,14 +32,14 @@ jobs:
           python scrape_trending_sources.py \
             --site all \
             --headless \
-            --out_csv ../docs/trending_sources.csv \
-            --out_json ../docs/trending_sources.json \
-            --out_html ../docs/index.html
+            --out_csv web/trending_sources.csv \
+            --out_json web/trending_sources.json \
+            --out_html web/index.html
 
       - name: Commit updated artifacts
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/index.html docs/trending_sources.csv docs/trending_sources.json
+          git add trend-seven-upload/web/trending_sources.csv trend-seven-upload/web/trending_sources.json trend-seven-upload/web/index.html
           git diff --cached --quiet || git commit -m "Refresh trending dashboard data"
           git push
