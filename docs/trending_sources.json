@@ -1,2165 +1,2676 @@
 [
   {
+    "source": "Indian Express",
+    "rank": 1,
+    "headline": "Trending in India",
+    "link": "https://indianexpress.com/section/trending/trending-in-india/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 2,
+    "headline": "This is Serious",
+    "link": "https://indianexpress.com/section/trending/this-is-serious/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 3,
+    "headline": "Watch: Jharkhand RJD MLA climbs on man’s back to cross knee-deep river, tumbles midway",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/watch-jharkhand-rjd-mla-climbs-on-mans-back-to-cross-knee-deep-river-tumbles-midway-10962997/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 4,
+    "headline": "Georgian girl dances to Shah Rukh Khan’s ‘Mehendi Lagake Rakhna’; netizens applaud",
+    "link": "https://indianexpress.com/article/trending/trending-globally/georgian-girl-dances-to-shah-rukh-khans-mehendi-lagake-rakhna-netizens-applaud-10962906/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 5,
+    "headline": "‘Dear hacker, take down Slack too’: Microsoft outage leaves employees celebrating",
+    "link": "https://indianexpress.com/article/trending/trending-globally/dear-hacker-take-down-slack-too-microsoft-outage-leaves-employees-celebrating-10962826/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 6,
+    "headline": "Hurun Global Indians List 2026: Sundar Pichai tops list at $4.2 trillion, beats Satya Nadella",
+    "link": "https://indianexpress.com/article/trending/top-10-listing/hurun-global-indians-list-2026-sundar-pichai-tops-list-at-4-2-trillion-beats-satya-nadella-10962051/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 7,
+    "headline": "Wedding bells gone wrong as car loses control, covering bride in mud",
+    "link": "https://indianexpress.com/article/trending/trending-globally/wedding-bells-gone-wrong-as-car-loses-control-covering-bride-in-mud-10961520/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 8,
+    "headline": "Monkey snatches pensioner’s Rs 81,800 in Shimla, throws cash down a hill",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/monkey-snatches-pensioners-rs-81800-in-shimla-throws-cash-down-a-hill-10961314/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 9,
+    "headline": "Entrepreneur offering money to leave post",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/want-to-quit-and-start-a-business-this-indian-ceo-is-paying-employees-to-leave-10961248/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 10,
+    "headline": "Dhinchak Pooja pregnancy post",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/dhinchak-pooja-announces-first-pregnancy-flaunts-baby-bump-10960402/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 11,
+    "headline": "Telegram CEO on Jensen Huang's affair",
+    "link": "https://indianexpress.com/article/trending/trending-globally/pavel-durov-jensen-huang-spy-controversy-dating-joke-10960216/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 12,
+    "headline": "Sonia Gandhi's favourite Indian dishes",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/sonia-gandhi-favourite-indian-food-dal-chawal-kashmiri-haakh-rajiv-gandhi-10960046/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 13,
+    "headline": "Jensen Alice Huang Bollywood memes viral",
+    "link": "https://indianexpress.com/article/trending/trending-globally/jensen-huang-alice-huang-affair-ai-bollywood-memes-viral-10960009/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 14,
+    "headline": "Guard faints Slovak President video",
+    "link": "https://indianexpress.com/article/trending/trending-globally/french-guard-collapses-near-emmanuel-macron-palace-10959770/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 15,
+    "headline": "Punjab carpenter lottery daughter birth",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/punjab-man-wins-rs-1-5-crore-lottery-daughter-birth-10958980/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 16,
+    "headline": "Mumbai cook Thailand trip viral post",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/mumbai-cook-earns-rs-1-lakh-monthly-linkedin-post-10958876/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 17,
+    "headline": "Chicago giant bean push theory",
+    "link": "https://indianexpress.com/article/trending/trending-globally/chicago-the-bean-push-conspiracy-theory-10958742/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 18,
+    "headline": "Stephanie Case Antarctica ultrarunner",
+    "link": "https://indianexpress.com/article/trending/trending-globally/stephanie-case-antarctic-100-mile-first-woman-history-10958484/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 19,
+    "headline": "BTech Engineering Wala video",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/btech-security-wala-abhiram-hyderabad-student-security-guard-education-loan-10958377/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 20,
+    "headline": "Aizawl's AQI Diwali viral post",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/canadian-influencer-on-aizawl-56-aqi-after-diwali-10957680/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 21,
+    "headline": "Haryana sweet shop bees video",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/diwali-honeybee-swarm-destroys-rs-2-lakh-worth-of-sweets-in-haryana-10957270/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 22,
+    "headline": "Foreign man shares farewell message for India",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/india-taught-me-what-feels-good-foreigner-farewell-message-10956649/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 23,
+    "headline": "Delhi AQI during Diwali",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/delhi-ncr-chokes-as-aqi-nears-severe-mark-on-diwali-residents-share-videos-10956316/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 24,
+    "headline": "Rajat Dalal pet dog dies",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/rajat-dalal-pet-dog-ballu-death-intestinal-injuries-10956197/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 25,
+    "headline": "Zohran Mamdani Diwali wishes video",
+    "link": "https://indianexpress.com/article/trending/trending-globally/zohran-mamdani-diwali-wishes-new-york-video-10955990/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 26,
+    "headline": "Gold rangoli Dubai video",
+    "link": "https://indianexpress.com/article/trending/trending-globally/dubais-6-5-kg-gold-rangoli-featuring-jewellery-stuns-visitors-watch-10955936/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "Indian Express",
+    "rank": 27,
+    "headline": "Surat businessman Diwali bonus video",
+    "link": "https://indianexpress.com/article/trending/trending-in-india/surat-businessman-gives-each-employee-over-rs-1-lakh-as-diwali-bonus-10955494/",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
     "source": "LiveMint",
     "rank": 1,
     "headline": "‘Street Fighter’ tops box office with $51 million ( ₹484 cr) debut",
     "link": "https://www.livemint.com/us/trending/hollywood-street-fighter-tops-global-bo-with-51-mn-484-cr-debut-you-can-see-everything-emerges-as-surprise-hit-11792429207429.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 2,
     "headline": "McDonald's Disney Boo Buckets: Designs, release date and Happy Meal details",
     "link": "https://www.livemint.com/us/trending/mcdonalds-2026-halloween-boo-buckets-get-a-disney-villains-makeover-meet-all-five-designs-and-release-date-11792171317655.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 3,
     "headline": "Who is Elizabeth Holmes? Theranos scandal, fraud conviction and new documentary",
     "link": "https://www.livemint.com/us/trending/who-is-elizabeth-holmes-everything-to-know-about-the-theranos-founder-before-watching-her-documentary-11792166199483.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 4,
     "headline": "No phone, no fixed hours: Inside the Maryland bar run by a 103 yr old bartender",
     "link": "https://www.livemint.com/us/trending/meet-irvin-koch-103-year-old-bartender-has-served-drinks-for-63-years-from-his-maryland-basement-11791468926416.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 5,
     "headline": "Mamdani rejects Kimmel’s request to send Trump their selfie",
     "link": "https://www.livemint.com/us/trending/jimmy-kimmel-asks-zohran-mamdani-to-send-donald-trump-their-selfie-here-s-what-the-nyc-mayor-said-11790713509998.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 6,
     "headline": "From living in a car to ₹1.25 cr: Free Facebook find changed 23-year-old's life",
     "link": "https://www.livemint.com/us/trending/from-living-in-a-car-to-1-25-crore-in-2-weeks-how-a-free-facebook-find-changed-this-23-year-olds-life-11789975802616.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 7,
     "headline": "Matthew Rhys makes Emmy history with two lead acting wins",
     "link": "https://www.livemint.com/us/trending/matthew-rhys-says-he-is-slightly-giddy-after-making-emmy-history-with-two-leading-actor-wins-11789483537802.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 8,
     "headline": "Oasis 2027 Tour: Full dates, venues and ticket details for UK, Europe, US",
     "link": "https://www.livemint.com/us/trending/oasis-2027-tour-full-dates-venues-and-ticket-details-for-uk-europe-us-11789446874754.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 9,
     "headline": "Jimmy Kimmel Live! cancelled? ABC clarifies report on show’s future",
     "link": "https://www.livemint.com/us/trending/jimmy-kimmel-live-cancelled-abc-breaks-silence-after-report-raises-questions-over-show-s-future-11788959542192.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 10,
     "headline": "McDonald’s ditches pumpkin spice: What’s replacing America’s fall favourite?",
     "link": "https://www.livemint.com/us/trending/mcdonalds-ditches-pumpkin-spice-after-10-years-what-s-replacing-america-s-fall-favourite-11788797054833.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 11,
     "headline": "Trump ‘happy’ Harry & Meghan left the US, but says: ‘If I were royal family…’",
     "link": "https://www.livemint.com/us/trending/trump-happy-prince-harry-meghan-markle-left-the-us-but-says-if-i-were-the-royal-family-i-wouldnt-have-11788403167141.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 12,
     "headline": "Kai Trump gets emotional leaving home for University of Miami: ‘I’m struggling’",
     "link": "https://www.livemint.com/us/trending/kai-trump-gets-emotional-as-she-begins-new-college-in-miami-away-from-family-i-m-struggling-right-now-11788375272606.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 13,
     "headline": "Quote of the day by Nick Vujicic: ‘It’s a lie to think you’re not good…'",
     "link": "https://www.livemint.com/us/trending/quote-of-the-day-by-nick-vujicic-it-s-a-lie-to-think-you-re-not-good-enough-lesson-on-realising-ones-worth-11788076677892.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 14,
     "headline": "Viral cash drop trend opens revenue streams for treasure planners — How it works",
     "link": "https://www.livemint.com/us/trending/viral-cash-drop-trend-opens-multiple-revenue-streams-for-social-media-treasure-planners-find-out-how-this-model-works-11787365337942.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 15,
     "headline": "Gwyneth Paltrow tries damage control over viral dinner invite for Sam Altman",
     "link": "https://www.livemint.com/us/trending/iron-man-star-gwyneth-paltrow-tries-damage-control-over-viral-off-the-record-dinner-invite-for-openai-ceo-sam-altman-11787277163109.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 16,
     "headline": "Neutrogena reacts after heavy backlash over relation with Hayden Panettiere",
     "link": "https://www.livemint.com/us/trending/neutrogena-breaks-silence-after-heavy-backlash-over-unsupportive-relation-with-hayden-panettiere-controversy-explained-11787274951084.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 17,
     "headline": "Harvard to pay whopping $53 million over body parts theft from donated cadavers",
     "link": "https://www.livemint.com/us/trending/harvard-shocker-body-parts-stolen-from-donated-cadavers-university-to-pay-whopping-53-million-to-settle-lawsuits-11787186224904.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 18,
     "headline": "No degree, no money, one big break: Palmer Luckey on how he made it in America",
     "link": "https://www.livemint.com/us/trending/from-a-college-dropout-working-minimum-wage-to-a-2-billion-sale-to-meta-by-age-21-palmer-luckeys-story-11787111193962.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 19,
     "headline": "Remember the CEO who fired 900 employees on Zoom call? He has been fired",
     "link": "https://www.livemint.com/us/trending/remember-the-ceo-who-fired-900-employees-on-zoom-call-he-has-been-fired-ready-to-work-for-1-annual-salary-11786811081921.html",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 20,
-    "headline": "Mark to Market",
-    "link": "https://www.livemint.com/market/mark-to-market",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Marco Rubio reveals his 30-sec breakfast choice while discussing RFK Jr.’s diet",
+    "link": "https://www.livemint.com/us/trending/marco-rubio-takes-a-swipe-at-rfk-jr-s-crazy-diet-i-m-not-gonna-travel-the-world-with-sauerkraut-11786642721276.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 21,
-    "headline": "Gold Price Today",
-    "link": "https://www.livemint.com/gold-prices",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "‘We missed you, Messi’: MLS’ welcome video for Inter Miami star goes viral",
+    "link": "https://www.livemint.com/us/trending/we-missed-you-messi-mls-welcome-video-goes-viral-inter-miami-star-shocks-all-with-return-after-fathers-death-11786619220291.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 22,
-    "headline": "Silver Price Today",
-    "link": "https://www.livemint.com/silver-prices",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Texas Tax-Free Weekend 2026: Which items qualify",
+    "link": "https://www.livemint.com/us/trending/texas-tax-free-weekend-2026-which-items-qualify-does-online-shopping-count-all-faqs-answered-11786106420813.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 23,
-    "headline": "Petrol price today",
-    "link": "https://www.livemint.com/fuel-prices-petrol",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Restraining order: Kylie Jenner’s stalker asked to stay away for 3 years",
+    "link": "https://www.livemint.com/us/trending/kylie-jenner-s-stalker-asked-to-stay-away-for-3-years-kardashian-jenner-family-gets-restraining-order-11785932822101.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 24,
-    "headline": "Diesel price today",
-    "link": "https://www.livemint.com/fuel-prices-diesel",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Six Flags reveals Bakunawa, a giant coaster set to shatter six world records",
+    "link": "https://www.livemint.com/us/trending/six-flags-unveils-bakunawa-the-record-shattering-spinning-coaster-youve-ever-ridden-11785356037619.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 25,
-    "headline": "Ask Mint Money",
-    "link": "https://www.livemint.com/money/ask-mint-money",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Kai Trump shares the diet behind her washboard abs",
+    "link": "https://www.livemint.com/us/trending/kai-trumps-six-pack-abs-diet-and-workout-routine-revealed-what-donald-trumps-granddaughter-eats-every-day-11784746304648.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 26,
-    "headline": "IFSC Code Finder",
-    "link": "https://www.livemint.com/ifsc-code",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Quote of the day by Brian Tracy: ‘An attitude of positive expectation…'",
+    "link": "https://www.livemint.com/us/trending/quote-of-the-day-by-brian-tracy-an-attitude-of-positive-expectation-life-lessons-on-mindset-perseverance-11784619947513.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 27,
-    "headline": "Income Tax Calculator",
-    "link": "https://www.livemint.com/tools-calculators/income-tax-calculator",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Quote of the day by Edmund Hillary: ‘No one remembers who climbed Mount…’",
+    "link": "https://www.livemint.com/us/trending/quote-of-the-day-by-edmund-hillary-no-one-remembers-who-climbed-mount-everest-life-lessons-on-courage-11784531585658.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 28,
-    "headline": "Gold Rate in Delhi",
-    "link": "https://www.livemint.com/gold-prices/delhi",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "FIFA World Cup 1958 final jersey worn by Brazil icon Pele sells for $4.9 million",
+    "link": "https://www.livemint.com/us/trending/fifa-world-cup-1958-final-jersey-worn-by-brazil-legend-pele-sells-for-a-whopping-4-9-million-at-auction-11784261503495.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 29,
-    "headline": "Gold Rate Hyderabad",
-    "link": "https://www.livemint.com/gold-prices/hyderabad",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Quote of the day by Sumner Redstone: 'Success is not built on success...'",
+    "link": "https://www.livemint.com/us/trending/quote-of-the-day-by-sumner-redstone-success-is-not-built-on-success-its-built-on-life-lesson-on-perseverance-11784100392152.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 30,
-    "headline": "Silver Rate in Delhi",
-    "link": "https://www.livemint.com/silver-prices/delhi",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Quote of the day by Bill Gates: ‘Success is a lousy teacher, it seduces…’",
+    "link": "https://www.livemint.com/us/trending/quote-of-the-day-by-bill-gates-success-is-a-lousy-teacher-it-seduces-11783958000045.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 31,
-    "headline": "Silver Rate in Bangalore",
-    "link": "https://www.livemint.com/silver-prices/bangalore",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "OTT releases this week: Jennifer Garner's The Five Star Weekend, and more",
+    "link": "https://www.livemint.com/us/trending/us-ott-releases-this-week-jennifer-garners-the-five-star-weekend-the-man-will-burn-and-more-11783692043417.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 32,
-    "headline": "US Stock Market",
-    "link": "https://www.livemint.com/market/us-market",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Quote of the day by Gayle Forman: ‘Life might take you down different…’",
+    "link": "https://www.livemint.com/us/trending/quote-of-the-day-by-gayle-forman-life-might-take-you-down-different-roads-why-choices-matter-more-than-circumstances-11783413351658.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 33,
-    "headline": "Terms of Use",
-    "link": "https://www.livemint.com/terms-of-use",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Quote of the day by Charles Schulz: ‘Learn from yesterday, live for today…’",
+    "link": "https://www.livemint.com/us/trending/quote-of-the-day-by-charles-schulz-learn-from-yesterday-live-for-today-life-lessons-on-value-of-time-11783411939895.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 34,
-    "headline": "Code of ethics",
-    "link": "https://www.livemint.com/code-of-ethics",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Comedian Adam Sandler officiated Taylor Swift-Travis Kelce wedding",
+    "link": "https://www.livemint.com/us/trending/comedian-adam-sandler-officiated-taylor-swift-travis-kelce-wedding-all-about-his-relationship-with-the-star-couple-11783129384586.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 35,
-    "headline": "Home Loan EMI Calculator",
-    "link": "https://www.livemint.com/tools-calculators/home-loan-emi-calculator",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "‘Just&t married’: Taylor Swift and Travis Kelce officially tie the knot",
+    "link": "https://www.livemint.com/us/trending/justt-married-taylor-swift-and-travis-kelce-officially-married-at-madison-square-garden-11783122011843.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "LiveMint",
     "rank": 36,
+    "headline": "Quote of the day by Djokovic: ‘You have to consistently be successful to be…’",
+    "link": "https://www.livemint.com/us/trending/quote-of-the-day-by-novak-djokovic-you-have-to-consistently-be-successful-to-be-one-of-the-top-players-11783074167321.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 37,
+    "headline": "Quote of the day by Daniel J Boorstin: ‘The greatest enemy of knowledge is…’",
+    "link": "https://www.livemint.com/us/trending/quote-of-the-day-by-daniel-j-boorstin-the-greatest-enemy-of-knowledge-is-not-ignorance-it-is-the-illusion-of-11783057446664.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 38,
+    "headline": "Quote of the day by Bruce Lee: ‘The successful warrior is the average man,…’",
+    "link": "https://www.livemint.com/us/trending/quote-of-the-day-by-bruce-lee-the-successful-warrior-is-the-average-man-with-laser-like-focus-11783054961943.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 39,
+    "headline": "Quote of the day by Lewis Hamilton: ‘You just need to be accepted for who you…’",
+    "link": "https://www.livemint.com/us/trending/quote-of-the-day-by-lewis-hamilton-you-just-need-to-be-accepted-for-who-you-are-and-be-proud-of-11782988582326.html",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 40,
+    "headline": "Mark to Market",
+    "link": "https://www.livemint.com/market/mark-to-market",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 41,
+    "headline": "Gold Price Today",
+    "link": "https://www.livemint.com/gold-prices",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 42,
+    "headline": "Silver Price Today",
+    "link": "https://www.livemint.com/silver-prices",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 43,
+    "headline": "Petrol price today",
+    "link": "https://www.livemint.com/fuel-prices-petrol",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 44,
+    "headline": "Diesel price today",
+    "link": "https://www.livemint.com/fuel-prices-diesel",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 45,
+    "headline": "Ask Mint Money",
+    "link": "https://www.livemint.com/money/ask-mint-money",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 46,
+    "headline": "IFSC Code Finder",
+    "link": "https://www.livemint.com/ifsc-code",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 47,
+    "headline": "Income Tax Calculator",
+    "link": "https://www.livemint.com/tools-calculators/income-tax-calculator",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 48,
+    "headline": "Gold Rate in Delhi",
+    "link": "https://www.livemint.com/gold-prices/delhi",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 49,
+    "headline": "Gold Rate Hyderabad",
+    "link": "https://www.livemint.com/gold-prices/hyderabad",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 50,
+    "headline": "Silver Rate in Delhi",
+    "link": "https://www.livemint.com/silver-prices/delhi",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 51,
+    "headline": "Silver Rate in Bangalore",
+    "link": "https://www.livemint.com/silver-prices/bangalore",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 52,
+    "headline": "US Stock Market",
+    "link": "https://www.livemint.com/market/us-market",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 53,
+    "headline": "Terms of Use",
+    "link": "https://www.livemint.com/terms-of-use",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 54,
+    "headline": "Code of ethics",
+    "link": "https://www.livemint.com/code-of-ethics",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 55,
+    "headline": "Home Loan EMI Calculator",
+    "link": "https://www.livemint.com/tools-calculators/home-loan-emi-calculator",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "LiveMint",
+    "rank": 56,
     "headline": "Car Loan EMI",
     "link": "https://www.livemint.com/tools-calculators/car-loan-calculator",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 1,
     "headline": "Google India's Children's Day wish comes with a cheeky message for all Gemini users",
     "link": "https://www.indiatoday.in/trending-news/story/google-indias-childrens-day-wish-comes-with-a-cheeky-message-for-all-gemini-users-3038924-2026-11-14",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 2,
     "headline": "Elephant charges at people during procession in Hyderabad, cops rush to control it",
     "link": "https://www.indiatoday.in/trending-news/story/elephant-charges-at-people-during-procession-in-hyderabad-cops-rush-to-control-it-3038763-2026-11-14",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 3,
     "headline": "Bangladesh biker halts traffic to save frightened kitten, rides off with it in pocket",
     "link": "https://www.indiatoday.in/trending-news/story/bangladesh-biker-halts-traffic-to-save-frightened-kitten-rides-off-with-it-in-pocket-3038775-2026-11-14",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 4,
     "headline": "Blinkit sold out, Instagram lit up. Sonia Gandhi's book has people hooked, but why?",
     "link": "https://www.indiatoday.in/trending-news/story/blinkit-sold-out-instagram-lit-up-sonia-gandhis-book-belonging-has-people-hooked-but-why-3038749-2026-11-14",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 5,
     "headline": "Chinese father lets his son watch TV for hours, but there's a catch every 10 minutes",
     "link": "https://www.indiatoday.in/trending-news/story/chinese-father-lets-his-son-watch-tv-for-hours-but-theres-a-catch-every-10-minutes-3038733-2026-11-14",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 6,
     "headline": "Howrah station witnesses a heartwarming Bhai Dooj celebration as siblings reunite",
     "link": "https://www.indiatoday.in/trending-news/story/howrah-station-witnesses-a-heartwarming-bhai-dooj-celebration-as-siblings-reunite-3038700-2026-11-14",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 7,
     "headline": "Vietnam bride's bridal look takes a hit as car flips, leaves her covered in mud",
     "link": "https://www.indiatoday.in/trending-news/story/vietnam-brides-bridal-look-takes-a-hit-as-car-flips-leaves-her-covered-in-mud-3038683-2026-11-14",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 8,
     "headline": "Diner where Nvidia was born removes plaque honouring company amid Jensen affair row",
     "link": "https://www.indiatoday.in/trending-news/story/us-diner-where-nvidia-was-born-removes-plaque-honouring-company-amid-jensen-huang-affair-row-3038664-2026-11-14",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 9,
     "headline": "Haryana man gets Rs 2,000 challan, but the location recorded leaves him baffled",
     "link": "https://www.indiatoday.in/trending-news/story/haryana-man-gets-rs-2000-challan-but-the-location-recorded-leaves-him-baffled-3038164-2026-11-13",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 10,
     "headline": "Monkey snatches Rs 81,800 from man's pocket, throws notes from treetop in Shimla",
     "link": "https://www.indiatoday.in/trending-news/story/monkey-snatches-rs-81800-from-mans-pocket-throws-notes-from-treetop-in-shimla-3038060-2026-11-13",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 11,
     "headline": "Man spends 25 minutes in accessible toilet at airport, wheelchair user waits outside",
     "link": "https://www.indiatoday.in/trending-news/story/man-spends-25-minutes-in-accessible-toilet-at-bengaluru-airport-wheelchair-user-waits-outside-3038113-2026-11-13",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 12,
     "headline": "Passenger asked to pay Rs 200 for a band-aid on Shatabdi, shares bizarre experience",
     "link": "https://www.indiatoday.in/trending-news/story/passenger-asked-to-pay-rs-200-for-a-band-aid-on-shatabdi-shares-bizarre-experience-3038011-2026-11-13",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 13,
     "headline": "UP groom arrives at wedding in helicopter, fulfils grandmother's 18-year-old dream",
     "link": "https://www.indiatoday.in/trending-news/story/up-groom-arrives-at-wedding-in-helicopter-fulfils-grandmothers-18-year-old-dream-3037960-2026-11-13",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 14,
     "headline": "'Happy Friday, all': Internet has field day with Microsoft outage as memes take over",
     "link": "https://www.indiatoday.in/trending-news/story/microsoft-outage-becomes-the-internets-favourite-excuse-to-skip-work-memes-follow-3037928-2026-11-13",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 15,
     "headline": "Flowers, candles, tears: Odd scenes outside Nvidia HQ after Jensen Huang quits",
     "link": "https://www.indiatoday.in/trending-news/story/flowers-candles-left-outside-nvidia-hq-become-odd-sight-after-jensen-huang-resigns-3037913-2026-11-13",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 16,
     "headline": "Meghalaya CM Conrad Sangma's on-stage moment with son is just too adorable to miss",
     "link": "https://www.indiatoday.in/trending-news/story/meghalaya-cm-conrad-sangmas-on-stage-moment-with-son-is-just-too-adorable-to-miss-3037670-2026-11-12",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 17,
     "headline": "Canada restaurant bans children under 15, gets one-star reviews before it even opens",
     "link": "https://www.indiatoday.in/trending-news/story/canada-restaurant-bans-children-under-15-gets-one-star-reviews-before-it-even-opens-3037535-2026-11-12",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 18,
     "headline": "Bihar thief spends whole night smashing ATM with iron rod, walks away without a rupee",
     "link": "https://www.indiatoday.in/trending-news/story/bihar-thief-spends-whole-night-smashing-atm-with-iron-rod-walks-away-without-a-rupee-3037461-2026-11-12",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 19,
     "headline": "Indian woman earning Rs 7.5 lakh monthly in US feels 'middle class', shares expenses",
     "link": "https://www.indiatoday.in/trending-news/story/indian-woman-earning-rs-75-lakh-monthly-in-us-feels-middle-class-shares-expenses-3037505-2026-11-12",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 20,
     "headline": "Van driver dances alongside moving vehicle to make a reel, passengers cheer him on",
     "link": "https://www.indiatoday.in/trending-news/story/van-driver-dances-alongside-moving-vehicle-to-make-a-reel-passengers-cheer-him-on-3037425-2026-11-12",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 21,
     "headline": "This Week In AI",
     "link": "https://www.indiatoday.in/technology/this-week-in-ai/story/should-claude-get-the-same-treatment-as-humans-the-question-opens-rift-between-pope-and-anthropic-3009222-2026-10-04",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 22,
-    "headline": "Insult to officers: BJP MLA says Kishtwar cops' bodies brought without coffins",
-    "link": "https://www.indiatoday.in/india/story/kishtwar-spo-deaths-jammu-kashmir-bjp-mla-bodies-in-dumper-without-coffins-3039176-2026-11-15",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Israel strikes Hamas commander in Gaza, group says senior military leader killed",
+    "link": "https://www.indiatoday.in/world/story/israel-strikes-hamas-military-commander-in-gaza-group-confirms-death-3039189-2026-11-15",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 23,
-    "headline": "Seeing niece, 2, as obstacle to affair with her mother, Jharkhand man kills child",
-    "link": "https://www.indiatoday.in/india/story/jharkhand-toddler-death-seeing-niece-2-as-obstacle-to-affair-with-her-mother-man-kills-child-in-west-singhbhum-nullah-ptag-3039036-2026-11-15",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "UK to expand guaranteed jobs scheme to tackle rising youth unemployment",
+    "link": "https://www.indiatoday.in/world/story/uk-to-roll-out-nationwide-jobs-scheme-for-young-people-amid-unemployment-concerns-3039188-2026-11-15",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 24,
-    "headline": "Dhaka completes legal process to extradite Sheikh Hasina, awaits India’s call",
-    "link": "https://www.indiatoday.in/world/story/sheikh-hasina-extradition-bangladesh-completes-legal-process-india-decision-new-delhi-ptag-3038905-2026-11-14",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "US floated idea of Ukraine ceding Donbas for NATO membership in Russia deal",
+    "link": "https://www.indiatoday.in/world/story/us-floats-ukraine-nato-membership-for-donbas-withdrawal-in-russia-deal-3039187-2026-11-15",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "India Today",
     "rank": 25,
-    "headline": "Ahmedabad Woman stabs ex-Armyman husband to death after dispute over food, responsibilities",
-    "link": "https://www.indiatoday.in/cities/ahmedabad/story/ahmedabad-woman-stabs-ex-army-husband-death-domestic-dispute-3034684-2026-11-08",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
-  },
-  {
-    "source": "India Today",
-    "rank": 26,
-    "headline": "Nvidia CEO Jensen Huang confesses affair with alleged Chinese spy, full story in 5 points",
-    "link": "https://www.indiatoday.in/technology/news/story/nvidia-ceo-jensen-huang-confesses-affair-with-alleged-chinese-spy-full-story-in-5-points-3035052-2026-11-09",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
-  },
-  {
-    "source": "India Today",
-    "rank": 27,
-    "headline": "Short seller flagged Nvidia CEO's closeness to alleged Chinese spy 6 months ago, now affair is public",
-    "link": "https://www.indiatoday.in/technology/news/story/short-seller-flagged-nvidia-ceos-closeness-to-alleged-chinese-spy-6-months-ago-now-affair-is-public-3035071-2026-11-09",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
-  },
-  {
-    "source": "India Today",
-    "rank": 28,
-    "headline": "Comedian Ravi Gupta flips the script on Ramayana, turns mockery into praise",
-    "link": "https://www.indiatoday.in/movies/celebrities/story/comedian-ravi-gupta-flips-the-script-on-ramayana-turns-mockery-into-praise-3035230-2026-11-09",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
-  },
-  {
-    "source": "India Today",
-    "rank": 29,
-    "headline": "Woman holds cracker box above head as it bursts into flames, video sparks outrage",
-    "link": "https://www.indiatoday.in/trending-news/story/woman-holds-cracker-box-above-head-as-it-bursts-into-flames-video-sparks-outrage-3035315-2026-11-09",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Sheikh Hasina seeks new passport, takes first step towards Bangladesh return",
+    "link": "https://www.indiatoday.in/world/story/sheikh-hasina-seeks-new-passport-bangladesh-return-dhaka-extradition-3035093-2026-11-09",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 1,
     "headline": "Indian women’s saree ramp walk near Eiffel Tower sparks debate online: Celebration of culture or social media cringe?",
     "link": "https://timesofindia.indiatimes.com/articleshow/131454770.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 2,
     "headline": "Meet Rounak Adhikary: Ashneer Grover once told him ‘Tu Baith Jaa Yaar’ and cut off his pitch mid-sentence; now he's living every startup founder's dream",
     "link": "https://timesofindia.indiatimes.com/articleshow/131419890.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 3,
     "headline": "Hyderabad-based Amazon employee shares what not to say at work",
     "link": "https://timesofindia.indiatimes.com/articleshow/130726842.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 4,
     "headline": "Salad topper recalled over salmonella risk",
     "link": "https://timesofindia.indiatimes.com/articleshow/130458722.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 5,
     "headline": "Rebel Wilson weight loss: How she lost 36 kgs without extreme dieting - Ozempic or lifestyle?",
     "link": "https://timesofindia.indiatimes.com/articleshow/130457577.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 6,
     "headline": "Imtiaz Ali praises 'Dhurandhar' for breaking rules: 'People thought that this is the most impractical'",
     "link": "https://timesofindia.indiatimes.com/articleshow/135840602.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 7,
     "headline": "Telugu actor Giri Babu passes away; Chiranjeevi, Mohan Babu, others mourn his demise",
     "link": "https://timesofindia.indiatimes.com/articleshow/135839000.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 8,
     "headline": "Ananya on Tiger Shroff firing incident: 'It is not just about the actor’s safety, but...'",
     "link": "https://timesofindia.indiatimes.com/articleshow/135837850.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 9,
     "headline": "'Ramayana' box office collection day 10",
     "link": "https://timesofindia.indiatimes.com/articleshow/135827177.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 10,
     "headline": "Amjad Ali Khan's six musical instruments go missing after British Airways flight ahead of US concert",
     "link": "https://timesofindia.indiatimes.com/articleshow/135837325.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 11,
     "headline": "Katrina calls Vicky 'the peace to my hysteria' as she reveals he keeps asking her to put away phone",
     "link": "https://timesofindia.indiatimes.com/articleshow/135835844.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 12,
     "headline": "Ananya Panday calls Aditya Roy Kapur, but Kartik Aaryan picks up in the new ‘Koffee With Karan 9’ promo; Ananya Birla jokes, 'You have called all your exes'",
     "link": "https://timesofindia.indiatimes.com/articleshow/135834689.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 13,
     "headline": "Sharad Kapoor to make his Hollywood debut in January amid viral appeal for work: 'I've already got an offer for a film'",
     "link": "https://timesofindia.indiatimes.com/articleshow/135833757.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 14,
     "headline": "'Ramayana' BO Day 5 [LIVE]: Ranbir's film rakes in Rs 84 cr in single day; to cross Rs 330 cr net",
     "link": "https://timesofindia.indiatimes.com/articleshow/135677850.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 15,
     "headline": "'Ramayana' scores Rs 64.85 net opening in India",
     "link": "https://timesofindia.indiatimes.com/articleshow/135589331.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 16,
     "headline": "‘Ramayana’ to challenge ‘Godzilla’ at global box office",
     "link": "https://timesofindia.indiatimes.com/articleshow/135560496.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 17,
     "headline": "‘Ramayana’ nears Rs 50 crore in advance sales; eyes Rs 100 crore opening",
     "link": "https://timesofindia.indiatimes.com/articleshow/135554684.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 18,
     "headline": "Ramayana box office: Exhibitors eye Rs 3,000 crore lifetime haul",
     "link": "https://timesofindia.indiatimes.com/articleshow/135554450.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 19,
     "headline": "'Ramayana' nears Rs 100 crore mark in advance bookings",
     "link": "https://timesofindia.indiatimes.com/articleshow/135513566.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 20,
     "headline": "Animal Preview: Ranbir Kapoor and Sandeep Reddy Vanga are set to shake up the box office hierarchy",
     "link": "https://timesofindia.indiatimes.com/articleshow/105615612.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 21,
     "headline": "Tu Jhoothi Main Makkaar",
     "link": "https://timesofindia.indiatimes.com/articleshow/98272134.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 22,
-    "headline": "Vandana Lalwani Eyes Acting Return: Lalwani wants to return to acting",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135826187.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Prachi Kowli’s 26-Year Milestone: Prachi marks 26 years since TV debut",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135839351.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 23,
-    "headline": "Munawar's Marriage: Fame left him unhappy",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135825170.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Yung DSA recalls Childhood: Financial struggles kept parents working",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135836243.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 24,
-    "headline": "Malik on Performer Respect: Organisers should raise concerns respectfully",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135824825.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Bigg Boss 20: Pavitra condemns Scout and Love’s sibling claims",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135829967.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 25,
-    "headline": "Supriya Shukla’s Return: She returns to TV in Mannat 2",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135607408.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Rimi Tomy ties the knot with fitness coach Libin Mathew",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135836099.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 26,
-    "headline": "300 Episodes: Lakshmi Niwas marks milestone",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135824071.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Children's Day: Bharti Singh recalls honeybee costume",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135837263.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 27,
-    "headline": "Meet Robia and Jojo: Pakistan's robot waiters who have customers travelling miles just to meet them!",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135834241.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Kaira Reacts to Gullu and Kanika: Kaira says she is happy for both",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135830237.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 28,
-    "headline": "GTA 6 has a whole cartoon TV show inside the game, and fans are losing it!",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135829717.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Kon Honar Crorepati: Farah says Madhuri deserves a medal",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135830270.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 29,
-    "headline": "Bride's wedding day gets a muddy makeover after floral decorations send car into rice field!",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135826527.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Meet the poisonous bird whose feathers can leave humans numb; where to spot it",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135825655.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 30,
-    "headline": "Haryana man gets speeding challan, but his car seems to have taken a trip to the Atlantic Ocean!",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135824051.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Five Chennai IT employees cook for old-age homes and child-care centres since 2020",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135800302.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 31,
-    "headline": "In November, 2026, 17-YO William surviving 6 days in freezing bushland: Here's how",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135822660.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Meet Robia and Jojo: Pakistan's robot waiters who have customers travelling miles just to meet them!",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135834241.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 32,
-    "headline": "BMW issues fire warning for 7.21 lakh cars in the US; owners told to park away from buildings",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135821927.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "GTA 6 has a whole cartoon TV show inside the game, and fans are losing it!",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135829717.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 33,
-    "headline": "Coachella 2027: Complete list of headliners",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135752466.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Bride's wedding day gets a muddy makeover after floral decorations send car into rice field!",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135826527.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 34,
-    "headline": "In 1999, Usher Founded His Nonprofit; Now It Has Reached 50,000 Young People",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135737985.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Haryana man gets speeding challan, but his car seems to have taken a trip to the Atlantic Ocean!",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135824051.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 35,
-    "headline": "In 2001, Paul McCartney started Adopt-A-Minefield campaign to promote complete eradication of landmines",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135707519.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "In November, 2026, 17-YO William surviving 6 days in freezing bushland: Here's how",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135822660.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 36,
-    "headline": "Paul McCartney becomes a billionaire",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135705663.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "BMW issues fire warning for 7.21 lakh cars in the US; owners told to park away from buildings",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135821927.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 37,
-    "headline": "Mel B shareshrowback: Singer recalls Spice Girls ‘girl power’ heyday",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135701454.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Coachella 2027: Complete list of headliners",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135752466.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 38,
-    "headline": "Billy Joel confirms that he is going to perform soon",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135700803.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "In 1999, Usher Founded His Nonprofit; Now It Has Reached 50,000 Young People",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135737985.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 39,
-    "headline": "Navratri 2025 in the US: A first-timer's guide to puja rituals, color significance, and celebrating away from home",
-    "link": "https://timesofindia.indiatimes.com/articleshow/124087323.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "In 2001, Paul McCartney started Adopt-A-Minefield campaign to promote complete eradication of landmines",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135707519.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 40,
-    "headline": "Beyond Ebooks: The charm of bookstores endures",
-    "link": "https://timesofindia.indiatimes.com/articleshow/101098088.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Paul McCartney becomes a billionaire",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135705663.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 41,
-    "headline": "It’s a curtain call: Sania Mirza bids adieu to tennis with ‘happy tears’",
-    "link": "https://timesofindia.indiatimes.com/articleshow/98440670.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Mel B shareshrowback: Singer recalls Spice Girls ‘girl power’ heyday",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135701454.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 42,
-    "headline": "A magical makeover for 17th Century stepwell: From neglected ruins to a glorious piece of history",
-    "link": "https://timesofindia.indiatimes.com/articleshow/96557955.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Billy Joel confirms that he is going to perform soon",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135700803.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 43,
-    "headline": "The city comes alive with Christmas fervour",
-    "link": "https://timesofindia.indiatimes.com/articleshow/96406573.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Navratri 2025 in the US: A first-timer's guide to puja rituals, color significance, and celebrating away from home",
+    "link": "https://timesofindia.indiatimes.com/articleshow/124087323.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 44,
-    "headline": "Theatre Review: Jigsaw - A thriller that keeps you guessing",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135755194.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Beyond Ebooks: The charm of bookstores endures",
+    "link": "https://timesofindia.indiatimes.com/articleshow/101098088.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 45,
-    "headline": "Prithvi Theatre Festival opens with a bang through 'Legacy of Louis Banks'; annual event continues its legacy for 5th decade",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135483368.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "It’s a curtain call: Sania Mirza bids adieu to tennis with ‘happy tears’",
+    "link": "https://timesofindia.indiatimes.com/articleshow/98440670.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 46,
-    "headline": "Theatre Review: Death and the Maiden: When justice fails, who gets to decide the truth?",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135354731.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "A magical makeover for 17th Century stepwell: From neglected ruins to a glorious piece of history",
+    "link": "https://timesofindia.indiatimes.com/articleshow/96557955.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 47,
-    "headline": "Theatre Review: Humare Ram - A fresh take on the epic Ramayana",
-    "link": "https://timesofindia.indiatimes.com/articleshow/134961117.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "The city comes alive with Christmas fervour",
+    "link": "https://timesofindia.indiatimes.com/articleshow/96406573.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 48,
-    "headline": "‘Saif Ali Khan was very good as Ravana’: 'Mahabali' actor Aarya Babbar defends ‘Adipurush’ actor, says Yash’s ‘Ramayana’ look lacks novelty beyond the costumes and resembles his ‘KGF’ appearance",
-    "link": "https://timesofindia.indiatimes.com/articleshow/134933542.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Theatre Review: Jigsaw - A thriller that keeps you guessing",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135755194.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 49,
-    "headline": "Preeta Mathur Thakur revives the story of 'Veera Rani Abbakka': The queen who used 'guerrilla warfare' against the Portuguese",
-    "link": "https://timesofindia.indiatimes.com/articleshow/134296974.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Prithvi Theatre Festival opens with a bang through 'Legacy of Louis Banks'; annual event continues its legacy for 5th decade",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135483368.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 50,
-    "headline": "Raj Kundra and Shilpa Shetty's 15th Wedding Anniversary",
-    "link": "https://timesofindia.indiatimes.com/articleshow/115563990.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Theatre Review: Death and the Maiden: When justice fails, who gets to decide the truth?",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135354731.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 51,
-    "headline": "​Bigg Boss winners list from season 1 to 17​",
-    "link": "https://timesofindia.indiatimes.com/articleshow/114277426.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Theatre Review: Humare Ram - A fresh take on the epic Ramayana",
+    "link": "https://timesofindia.indiatimes.com/articleshow/134961117.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 52,
-    "headline": "​Discover the bird with a prehistoric roar​",
-    "link": "https://timesofindia.indiatimes.com/articleshow/114244474.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "‘Saif Ali Khan was very good as Ravana’: 'Mahabali' actor Aarya Babbar defends ‘Adipurush’ actor, says Yash’s ‘Ramayana’ look lacks novelty beyond the costumes and resembles his ‘KGF’ appearance",
+    "link": "https://timesofindia.indiatimes.com/articleshow/134933542.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 53,
-    "headline": "Dia Mirza's ethnic wear",
-    "link": "https://timesofindia.indiatimes.com/articleshow/114243410.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Preeta Mathur Thakur revives the story of 'Veera Rani Abbakka': The queen who used 'guerrilla warfare' against the Portuguese",
+    "link": "https://timesofindia.indiatimes.com/articleshow/134296974.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 54,
-    "headline": "​Incredible facts about ants you won’t believe​",
-    "link": "https://timesofindia.indiatimes.com/articleshow/114243248.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Raj Kundra and Shilpa Shetty's 15th Wedding Anniversary",
+    "link": "https://timesofindia.indiatimes.com/articleshow/115563990.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 55,
-    "headline": "'Bigg Boss Marathi 5' nears grand finale​",
-    "link": "https://timesofindia.indiatimes.com/articleshow/113936459.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "​Bigg Boss winners list from season 1 to 17​",
+    "link": "https://timesofindia.indiatimes.com/articleshow/114277426.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 56,
-    "headline": "Kiran Mazumdar Shaw applauds young teen who built an Iron Man-inspired Jarvis, an offline smart-home assistant that could change life for the elderly",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135821798.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "​Discover the bird with a prehistoric roar​",
+    "link": "https://timesofindia.indiatimes.com/articleshow/114244474.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 57,
-    "headline": "When the world’s tallest and shortest women met for an afternoon tea party!",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135820211.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Dia Mirza's ethnic wear",
+    "link": "https://timesofindia.indiatimes.com/articleshow/114243410.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 58,
-    "headline": "Pakistani travel vlogger Muskaan shares her dream India bucket list",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135811335.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "​Incredible facts about ants you won’t believe​",
+    "link": "https://timesofindia.indiatimes.com/articleshow/114243248.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 59,
-    "headline": "Meerut groom arrives in Hapur with his baraat in a helicopter to fulfil Dadi's wish",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135800266.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "'Bigg Boss Marathi 5' nears grand finale​",
+    "link": "https://timesofindia.indiatimes.com/articleshow/113936459.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 60,
-    "headline": "Happy Chhath Puja 2026: Top 55 Wishes, Messages and Quotes to share with your loved ones",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135793464.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Kiran Mazumdar Shaw applauds young teen who built an Iron Man-inspired Jarvis, an offline smart-home assistant that could change life for the elderly",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135821798.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 61,
-    "headline": "Happy Children's Day 2026: 25+ Inspirational quotes by Pandit Jawaharlal Nehru to inspire students",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135788097.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "When the world’s tallest and shortest women met for an afternoon tea party!",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135820211.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 62,
-    "headline": "Why do we celebrate birthdays with candles, and why are the candles blown out?",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135767085.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Pakistani travel vlogger Muskaan shares her dream India bucket list",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135811335.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 63,
-    "headline": "From Georgia to India: Little girl’s adorable dance on DDLJ song 'Mehendi Laga Ke Rakhna' goes viral, internet falls in love",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135794583.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Meerut groom arrives in Hapur with his baraat in a helicopter to fulfil Dadi's wish",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135800266.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 64,
-    "headline": "Flowers, tears, and tributes at Nvidia HQ: Internet reacts as Jensen Huang's exit after controversial affairs sends Silicon Valley into shock",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135789295.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Happy Chhath Puja 2026: Top 65 Wishes, Messages and Quotes to share with your loved ones",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135793464.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 65,
-    "headline": "'8 months, no salary': Bihar woman officer takes to begging bowl protest outside office",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135789723.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Happy Children's Day 2026: 25+ Inspirational quotes by Pandit Jawaharlal Nehru to inspire students",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135788097.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 66,
-    "headline": "Happy Children's Day 2026: Top 80 Wishes, Messages, Greeting Cards, GIFs and Quotes to share with your loved ones",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135726597.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Why do we celebrate birthdays with candles, and why are the candles blown out?",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135767085.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 67,
-    "headline": "In the 1900s, Brits took them away during colonial rule; over a century later, 39 Naga ancestors are finally coming home to India from Oxford museum after colonial-era repatriation campaign",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135787021.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "From Georgia to India: Little girl’s adorable dance on DDLJ song 'Mehendi Laga Ke Rakhna' goes viral, internet falls in love",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135794583.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 68,
-    "headline": "After Alice Huang and Kimberly Powell, is there a third? Former Nvidia CEO Jensen Huang linked to another employee in fresh affair allegations: Who is she?",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135787650.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Flowers, tears, and tributes at Nvidia HQ: Internet reacts as Jensen Huang's exit after controversial affairs sends Silicon Valley into shock",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135789295.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 69,
-    "headline": "Rameshwaram Cafe franchise scam alert: Brand warns public against fake offers",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135786879.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "'8 months, no salary': Bihar woman officer takes to begging bowl protest outside office",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135789723.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 70,
-    "headline": "Is Outlook down? Massive Microsoft 365 outage disrupts email, Teams, Copilot and more services; internet says, ‘take your time, no rush’",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135786615.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Happy Children's Day 2026: Top 80 Wishes, Messages, Greeting Cards, GIFs and Quotes to share with your loved ones",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135726597.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 71,
-    "headline": "\"A 14-hour layover in Delhi because I thought it'd be so cool\": A traveller thought her 14-hour layover in Delhi was a clever travel hack until she learned she needed a visa just to step outside",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135786501.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "In the 1900s, Brits took them away during colonial rule; over a century later, 39 Naga ancestors are finally coming home to India from Oxford museum after colonial-era repatriation campaign",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135787021.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 72,
-    "headline": "Bunker Roy, who trained village grandmothers as solar engineers and brought light to over a million people through Barefoot College, dies at 81",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135756632.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "After Alice Huang and Kimberly Powell, is there a third? Former Nvidia CEO Jensen Huang linked to another employee in fresh affair allegations: Who is she?",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135787650.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 73,
-    "headline": "'Toaster bhi le aate!' Gujarati family's sandwich-making video inside 3AC train leaves internet stunned, internet says - 'Agar paisa bachana hai aur bahar ka khana nahi kha sakte toh travel mat karo'",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135776570.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Rameshwaram Cafe franchise scam alert: Brand warns public against fake offers",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135786879.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 74,
-    "headline": "5 reasons why hotel bathrooms often have a phone",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135763969.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Is Outlook down? Massive Microsoft 365 outage disrupts email, Teams, Copilot and more services; internet says, ‘take your time, no rush’",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135786615.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 75,
-    "headline": "Mumbai cook's earnings leave internet surprised: Rs 1.5 lakh household income, first Thailand trip at 34",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135760325.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "\"A 14-hour layover in Delhi because I thought it'd be so cool\": A traveller thought her 14-hour layover in Delhi was a clever travel hack until she learned she needed a visa just to step outside",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135786501.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 76,
-    "headline": "Farmers in Bangladesh grow vegetables on floating gardens made from water hyacinth: How an unusual farming method survives devastating floods",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135759984.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Bunker Roy, who trained village grandmothers as solar engineers and brought light to over a million people through Barefoot College, dies at 81",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135756632.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 77,
-    "headline": "Happy Children’s Day 2026: Easy speech ideas for students and teachers to inspire young minds on 14 November",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135753579.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "'Toaster bhi le aate!' Gujarati family's sandwich-making video inside 3AC train leaves internet stunned, internet says - 'Agar paisa bachana hai aur bahar ka khana nahi kha sakte toh travel mat karo'",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135776570.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 78,
-    "headline": "Jensen Huang may exit Nvidia? 5 names who could replace the CEO of the AI giant",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135758963.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "5 reasons why hotel bathrooms often have a phone",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135763969.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 79,
-    "headline": "'Mona Lisa of Pink Diamonds' with India connection sells for around ₹124 crore at Geneva auction",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135753580.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Mumbai cook's earnings leave internet surprised: Rs 1.5 lakh household income, first Thailand trip at 34",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135760325.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 80,
-    "headline": "\"Jeewan mein pehli baar gift mila hai humko”: Truck driver Suresh Maurya gets a Diwali present after 11 years of service, and his priceless reaction goes viral as he unboxes the gifts with a childlike excitement",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135752227.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Farmers in Bangladesh grow vegetables on floating gardens made from water hyacinth: How an unusual farming method survives devastating floods",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135759984.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 81,
-    "headline": "5 things people keep in their homes purely out of habit",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135731106.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Happy Children’s Day 2026: Easy speech ideas for students and teachers to inspire young minds on 14 November",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135753579.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 82,
-    "headline": "'Global brands want the Indian customer. Those companies don...",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135725739.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Jensen Huang may exit Nvidia? 5 names who could replace the CEO of the AI giant",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135758963.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 83,
-    "headline": "115+ Happy Diwali messages, greetings card, wishes, gifs and...",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135526230.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "'Mona Lisa of Pink Diamonds' with India connection sells for around ₹124 crore at Geneva auction",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135753580.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 84,
-    "headline": "Happy Diwali 2026: Best 40 Vibrant Wishes, Messages, Quotes,...",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135595126.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "\"Jeewan mein pehli baar gift mila hai humko”: Truck driver Suresh Maurya gets a Diwali present after 11 years of service, and his priceless reaction goes viral as he unboxes the gifts with a childlike excitement",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135752227.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 85,
-    "headline": "Happy Diwali 2026: Top 150+ wishes, messages, greetings card...",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135568394.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "5 things people keep in their homes purely out of habit",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135731106.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 86,
-    "headline": "Mumbai woman wins Rs 9.6 lakh in a sleep internship and a s...",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135630785.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "115+ Happy Diwali messages, greetings card, wishes, gifs and...",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135526230.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 87,
-    "headline": "'Maa bulaye aur beta gaon na jaye, pardes mein itna dum nahi...",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135228667.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Happy Diwali 2026: Best 40 Vibrant Wishes, Messages, Quotes,...",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135595126.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 88,
-    "headline": "2-year-old tabla prodigy from Karnataka breaks the record fo...",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135185822.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "'Global brands want the Indian customer. Those companies don...",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135725739.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 89,
-    "headline": "A Leopard entered a physically disabled woman’s home in Utta...",
-    "link": "https://timesofindia.indiatimes.com/articleshow/134958226.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "'Maa bulaye aur beta gaon na jaye, pardes mein itna dum nahi...",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135228667.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 90,
-    "headline": "100+ Happy Dussehra messages, greetings, wishes and quotes f...",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135032296.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "2-year-old tabla prodigy from Karnataka breaks the record fo...",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135185822.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 91,
-    "headline": "'Shifted out of Mumbai last week. Gradually realised the cit...",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135185882.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "100+ Happy Dussehra messages, greetings, wishes and quotes f...",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135032296.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 92,
-    "headline": "Meet Mohammed Talha: The 15-year-old from West Bengal whose father gifted him a ₹2.30 crore BMW for scoring good marks",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135741401.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "'Shifted out of Mumbai last week. Gradually realised the cit...",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135185882.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 93,
-    "headline": "5 common cooking smells that reveal something is going wrong",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135730542.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "‘New-age Natraj’: Young boy’s ‘Apsara Aali’ dance has everyo...",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135134551.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 94,
-    "headline": "Happy Children's Day 2026: History, significance, importance and all you need to know about Children's Day",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135725370.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Meet Mohammed Talha: The 15-year-old from West Bengal whose father gifted him a ₹2.30 crore BMW for scoring good marks",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135741401.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 95,
-    "headline": "6 Incredible animal cities that prove humans aren't nature's greatest architects",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135675790.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "5 common cooking smells that reveal something is going wrong",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135730542.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 96,
-    "headline": "Russian paraglider gets caught in power lines 150 metres above ground in Himachal; dramatic rescue caught on camera",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135729688.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Happy Children's Day 2026: History, significance, importance and all you need to know about Children's Day",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135725370.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 97,
-    "headline": "How Akshata Murty kept her Bengaluru Diwali traditions alive in Britain",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135723255.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "6 Incredible animal cities that prove humans aren't nature's greatest architects",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135675790.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 98,
-    "headline": "Happy Bhai Dooj 2026: Wishes, Messages, Quotes, Images, Facebook & WhatsApp status",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135711896.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Russian paraglider gets caught in power lines 150 metres above ground in Himachal; dramatic rescue caught on camera",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135729688.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 99,
-    "headline": "5 common mistakes that make homemade food spoil faster",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135707485.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "How Akshata Murty kept her Bengaluru Diwali traditions alive in Britain",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135723255.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 100,
-    "headline": "Shah Rukh Khan",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135774417.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Happy Bhai Dooj 2026: Wishes, Messages, Quotes, Images, Facebook & WhatsApp status",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135711896.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 101,
-    "headline": "Scene Movie Collection",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135695775.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "5 common mistakes that make homemade food spoil faster",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135707485.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 102,
-    "headline": "Scene OTT Release",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135821475.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Dubai creates ₹9 crore golden rangoli with 6.5 kg of gold and 380 carats of diamonds, video goes viral",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135705075.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 103,
-    "headline": "Drishyam 3 Box Office Collection",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135819699.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "'Move The Bean 7 Inches!' Hundreds show up in Chicago to rescue a man stuck inside the giant sculpture",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135703435.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 104,
-    "headline": "India Aditya L-1",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135707935.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Gaganyaan astronaut Shubhanshu Shukla shares \"nature's very own fireworks,\" showing a video of lightning streaking across different parts of the Earth; netizens call it 'surreal'",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135698628.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 105,
-    "headline": "Spanish Copper Mine",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135570922.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "NASA Astronaut Anil Menon shares breathtaking views of aurora and night orbit from Sspace",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135697392.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 106,
-    "headline": "Coastal Defence System",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135564169.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "In 2024, they were seen together at a Taipei party; in 2026, their relationship has become a national security concern: Inside the alleged affair between Jensen Huang and Alice Huang that triggered an Nvidia investigation",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135696329.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 107,
-    "headline": "Dead Sea Scrolls",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135527626.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Happy Govardhan Puja 2026: Wishes, Messages, Quotes, Images, Facebook and WhatsApp Status",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135539144.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 108,
-    "headline": "3800 Year Old Woman Letter",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135518742.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "5 reasons why some people become quieter as they grow older",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135676665.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 109,
-    "headline": "Poland Vampire Burial",
-    "link": "https://timesofindia.indiatimes.com/articleshow/135502518.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "5 everyday habits that are quietly damaging your expensive belongings",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135676482.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 110,
-    "headline": "Captions For Instagram Posts",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130895681.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "5 common household items that attract insects without you realising",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135676405.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 111,
-    "headline": "Hazaribag man drowns while fishing in lake",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130060093.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Happy Govardhan Puja 2026: Top 60 wishes, messages and quotes to share with your loved ones",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135639849.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 112,
-    "headline": "\"Behen Darr Gayi!\": Fans relive ‘Bhagam Bhag’ era after watching Akshay Kumar's 'Bhooth Bangla' trailer",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130060027.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Govardhan Puja 2026: Will it be celebrated on November 9 or 10? Check the correct date, tithi and puja muhurat",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135631576.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 113,
-    "headline": "MBOSE HSLC result 2026 to release tomorrow: Check details here",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130059814.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Things people do at home that guests notice immediately",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135624321.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 114,
-    "headline": "Iran war risk: JPMorgan CEO Jamie Dimon warns of oil shocks, sticky inflation and higher interest rates",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130059993.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Diwali 2026 Puja Guide: Puja Vidhi, Laxmi Pooja Shubh Muhurat, Mantras, and everything you need to know",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135585959.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 115,
-    "headline": "Make your clutch last longer with these easy driving tips",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130052232.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Which city is known as the Milk Capital of India? The story behind this Gujarat city",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135624355.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 116,
-    "headline": "“Three-against-one situation”: El Rubius opens up on being “targeted” in MrBeast’s viral $1M challenge",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130054402.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Drone drops bananas for stranded chimpanzees after devastating floods hit Florida sanctuary",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135653885.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 117,
-    "headline": "Bihar BTSC lab assistant notification released for 1091 posts at btsc.bihar.gov.in; apply here",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130059322.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Pineapple on pizza? Italian chef fired in Australia after refusing the topping; loses workplace dispute",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135652486.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 118,
-    "headline": "IPL craze costs techie Rs 1.46 lakh in fake RCB vs CSK ticket scam",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130059549.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Happy Diwali 2026: Meaningful wishes and messages to share with family, friends, and colleagues",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135526946.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 119,
-    "headline": "Raising “robot-proof” kids: Why creativity and curiosity matter more than ever",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130057342.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "In 2007, a Czech man found a strange stone in his garden; nearly two decades later, it turned out to be a 3,000-year-old Bronze Age weapon-making tool",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135651463.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 120,
-    "headline": "Inside ‘Satguru Sharan’: Exploring Saif Ali Khan and Kareena Kapoor Khan’s Rs 100 crore Bandra home",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130059584.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "US pilot spends 8 hours drawing GTA 6 in the sky, even Rockstar Games reacts",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135650452.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 121,
-    "headline": "How selling Alaska in 1867 was a costly mistake for Russia",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130057081.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Happy Diwali 2026: Inspiring quotes and messages to help you discover your inner light",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135524907.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 122,
-    "headline": "'Hera Pheri 3 is coming': Paresh Rawal dismisses delay reports and reveals he will 'start shooting soon'",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130059421.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "5 foods you should never wash before storing them",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135631529.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 123,
-    "headline": "US-Iran War: A daring rescue Hollywood blockbuster is on its way. Till then, pick your favourite from these 10 films on bringing someone home against all odds",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130059208.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "5 unexpected places where food contamination can happen",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135631417.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 124,
-    "headline": "Kolkata team unveils fan mural at Rash Behari Avenue, celebrating city’s first love",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130059554.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "“Do your best and forget the rest”: Shantanu Deshpande's reunion with his maths teacher after 21 years strikes an emotional chord",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135637569.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 125,
-    "headline": "How US spread a lie to rescue a pilot of a jet shot down in Iran",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130058641.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Indian cricketer Suryakumar Yadav meets PM Narendra Modi ahead of Diwali with his family; little Saryu’s Kannad bhajan makes the moment special; watch",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135633323.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 126,
-    "headline": "Netflix unveils ‘VOID’, an AI model that can change a movie plot",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130058880.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Which traditional artefacts should you bring home this Diwali according to Vastu?",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135635901.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 127,
-    "headline": "AI data centers are causing 'stress' not just to tech companies, but also private insurers",
-    "link": "https://timesofindia.indiatimes.com/articleshow/130058967.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Best Rangoli Designs for Diwali 2025: Add a Touch of Tradition to Your Decor",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135561743.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI ETimes",
     "rank": 128,
+    "headline": "Indian tourists turn Vietnam airport into 'Bhandara' spot; Internet says, 'Hamara nikalna band karwa denge ye log... poore duniya mein desh ko badnaam karo'",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135630913.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 129,
+    "headline": "Mumbai woman wins Rs 9.6 lakh in a sleep internship and a sponsored vacation after a 60-day competition, and it just tested her bedtime routine and creativity",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135630785.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 130,
+    "headline": "Not the real royals! Life-sized cake statues of William and Kate Middletone take UK baking show by storm",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135628945.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 131,
+    "headline": "Diwali 2026: 90+ Heartfelt Wishes, Greetings Card, Messages, and Quotes for the Festival of Lights",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135547723.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 132,
+    "headline": "‘Clicky Ponting’ banned from cricket for two years: How did a simple finger click at first slip end with a two-year ban?",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135626413.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 133,
+    "headline": "Million-dollar surprise! Georgia O’Keeffe painting found under fur coats after 40 years, could fetch up to ₹28 crore at auction",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135625179.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 134,
+    "headline": "Happy Choti Diwali 2026: Images, Wishes, Messages, Greetings, and Status Updates to Share on WhatsApp, Instagram and Facebook",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135560989.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 135,
+    "headline": "5 things people unknowingly do that make their refrigerators smell",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135609108.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 136,
+    "headline": "Happy Choti Diwali 2026: Share Heartwarming Wishes, Messages, Greetings, Stunning Images, Thoughtful Quotes and Greetings",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135550307.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 137,
+    "headline": "Shah Rukh Khan",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135774417.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 138,
+    "headline": "Scene Movie Collection",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135695775.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 139,
+    "headline": "Scene OTT Release",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135821475.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 140,
+    "headline": "Drishyam 3 Box Office Collection",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135819699.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 141,
+    "headline": "India Aditya L-1",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135707935.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 142,
+    "headline": "Spanish Copper Mine",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135570922.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 143,
+    "headline": "Coastal Defence System",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135564169.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 144,
+    "headline": "Dead Sea Scrolls",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135527626.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 145,
+    "headline": "3800 Year Old Woman Letter",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135518742.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 146,
+    "headline": "Poland Vampire Burial",
+    "link": "https://timesofindia.indiatimes.com/articleshow/135502518.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 147,
+    "headline": "Captions For Instagram Posts",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130895681.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 148,
+    "headline": "Hazaribag man drowns while fishing in lake",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130060093.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 149,
+    "headline": "\"Behen Darr Gayi!\": Fans relive ‘Bhagam Bhag’ era after watching Akshay Kumar's 'Bhooth Bangla' trailer",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130060027.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 150,
+    "headline": "MBOSE HSLC result 2026 to release tomorrow: Check details here",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130059814.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 151,
+    "headline": "Iran war risk: JPMorgan CEO Jamie Dimon warns of oil shocks, sticky inflation and higher interest rates",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130059993.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 152,
+    "headline": "Make your clutch last longer with these easy driving tips",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130052232.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 153,
+    "headline": "“Three-against-one situation”: El Rubius opens up on being “targeted” in MrBeast’s viral $1M challenge",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130054402.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 154,
+    "headline": "Bihar BTSC lab assistant notification released for 1091 posts at btsc.bihar.gov.in; apply here",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130059322.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 155,
+    "headline": "IPL craze costs techie Rs 1.46 lakh in fake RCB vs CSK ticket scam",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130059549.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 156,
+    "headline": "Raising “robot-proof” kids: Why creativity and curiosity matter more than ever",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130057342.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 157,
+    "headline": "Inside ‘Satguru Sharan’: Exploring Saif Ali Khan and Kareena Kapoor Khan’s Rs 100 crore Bandra home",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130059584.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 158,
+    "headline": "How selling Alaska in 1867 was a costly mistake for Russia",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130057081.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 159,
+    "headline": "'Hera Pheri 3 is coming': Paresh Rawal dismisses delay reports and reveals he will 'start shooting soon'",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130059421.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 160,
+    "headline": "US-Iran War: A daring rescue Hollywood blockbuster is on its way. Till then, pick your favourite from these 10 films on bringing someone home against all odds",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130059208.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 161,
+    "headline": "Kolkata team unveils fan mural at Rash Behari Avenue, celebrating city’s first love",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130059554.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 162,
+    "headline": "How US spread a lie to rescue a pilot of a jet shot down in Iran",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130058641.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 163,
+    "headline": "Netflix unveils ‘VOID’, an AI model that can change a movie plot",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130058880.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 164,
+    "headline": "AI data centers are causing 'stress' not just to tech companies, but also private insurers",
+    "link": "https://timesofindia.indiatimes.com/articleshow/130058967.cms",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
+  },
+  {
+    "source": "TOI ETimes",
+    "rank": 165,
     "headline": "\"Trans women are.....\": Clavicular’s viral moment with trans women sparks fresh conversation on internet culture",
     "link": "https://timesofindia.indiatimes.com/articleshow/130053479.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 1,
     "headline": "Watch: Hardeep Singh Puri reunites with old friend from Delhi University, video melts hearts",
     "link": "https://timesofindia.indiatimes.com/articleshow/108418522.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 2,
     "headline": "Narayana Murthy and daughter Akshata enjoy 'Corner House' ice cream in Bengaluru",
     "link": "https://timesofindia.indiatimes.com/articleshow/107659138.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 3,
     "headline": "Taylor Swift cheers boyfriend Travis Kelce at the Super Bowl",
     "link": "https://timesofindia.indiatimes.com/articleshow/107613344.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 4,
     "headline": "'He Nitished me' to 'Paltu Chacha': Nitish Kumar's 'swing politics' sparks humour fest",
     "link": "https://timesofindia.indiatimes.com/articleshow/107236114.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 5,
     "headline": "Flyer hits IndiGo Pilot announcing flight delay due to dense fog conditions, video goes viral",
     "link": "https://timesofindia.indiatimes.com/articleshow/106851189.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 6,
     "headline": "New Zealand's youngest MP performs native 'war cry' in Parliament, video goes viral",
     "link": "https://timesofindia.indiatimes.com/articleshow/106572179.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 7,
     "headline": "NASA unveils stunning image of 'evil eye' galaxy, sparking internet awe",
     "link": "https://timesofindia.indiatimes.com/articleshow/105570940.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 8,
     "headline": "Millennials bemoan lackluster Black Friday deals in social media uproar",
     "link": "https://timesofindia.indiatimes.com/articleshow/105475777.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 9,
     "headline": "'At least they'll not lose to India in semis': Memes erupt with Pakistan all but out of World Cup",
     "link": "https://timesofindia.indiatimes.com/articleshow/105122539.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 10,
     "headline": "Brazilian influencer Vanessa Mancini dies at 41 from massive heart attack",
     "link": "https://timesofindia.indiatimes.com/articleshow/105110853.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 11,
     "headline": "Memes erupt as Angelo Mathews becomes first international cricketer to be timed out",
     "link": "https://timesofindia.indiatimes.com/articleshow/105016656.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 12,
     "headline": "Mia Khalifa posts Amy Schumer's heated exchange with Asia Jackson over Israel-Palestine conflict",
     "link": "https://timesofindia.indiatimes.com/articleshow/104947696.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 13,
     "headline": "Fans troll Pakistan as Proteas beat Kiwis to keep Pak's semi-final hopes alive",
     "link": "https://timesofindia.indiatimes.com/articleshow/104912338.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 14,
     "headline": "Mark Zuckerberg and family's Halloween transformation into Hogwarts icons warms hearts",
     "link": "https://timesofindia.indiatimes.com/articleshow/104888586.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 15,
     "headline": "'Bore hone ka chance-ich nahi' as auto driver sings & entertains people stuck in Andheri traffic",
     "link": "https://timesofindia.indiatimes.com/articleshow/104886091.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 16,
     "headline": "Escaped monkey 'Momo' captured after it drinks beer and runs riot in Indianapolis",
     "link": "https://timesofindia.indiatimes.com/articleshow/104208644.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 17,
     "headline": "Animal smuggling: Otter, rat and 28 turtles cause chaos on Bangkok to Taipei flight",
     "link": "https://timesofindia.indiatimes.com/articleshow/104208771.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 18,
     "headline": "Alligator ally oops! Phillies fan denied entry with emotional support gator",
     "link": "https://timesofindia.indiatimes.com/articleshow/104043227.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 19,
     "headline": "'Qualified for Karachi station': Pakistan's exit from Asia Cup sparks memefest",
     "link": "https://timesofindia.indiatimes.com/articleshow/103687163.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 20,
     "headline": "'Racist bigots': Arabic restaurant in US refuses to serve cops in uniform, faces fury",
     "link": "https://timesofindia.indiatimes.com/articleshow/103285144.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 21,
     "headline": "Watch: Pakistani wedding in UK descends into mass brawl as guests hurl chairs at each other",
     "link": "https://timesofindia.indiatimes.com/articleshow/103245258.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 22,
     "headline": "Memes abuzz as Neeraj Chopra makes history with first gold for India in World Championship",
     "link": "https://timesofindia.indiatimes.com/articleshow/103138499.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 23,
     "headline": "Boyfriend held in murder of Instagram influencer Beauty Couch in Georgia",
     "link": "https://timesofindia.indiatimes.com/articleshow/103125550.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 24,
     "headline": "Why internet is suddenly talking about Donald Trump’s weight",
     "link": "https://timesofindia.indiatimes.com/articleshow/103058329.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 25,
     "headline": "'Don is back': Trump's mug shot triggers memefest",
     "link": "https://timesofindia.indiatimes.com/articleshow/103047943.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 26,
     "headline": "Hurricane Hilary unleashes fury on Southern California, visuals viral",
     "link": "https://timesofindia.indiatimes.com/articleshow/102906246.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 27,
     "headline": "'Shameless': Prakash Raj blasted by netizens for mocking India's moon mission",
     "link": "https://timesofindia.indiatimes.com/articleshow/102902284.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 28,
     "headline": "'Me during WFH': Photo of Selena Gomez wrapped in 'shawl' stirs memefest",
     "link": "https://timesofindia.indiatimes.com/articleshow/102799584.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 29,
     "headline": "'Mission impossible': Memes erupt as people find it hard to return to office after long weekend",
     "link": "https://timesofindia.indiatimes.com/articleshow/102768800.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 30,
     "headline": "‘Paisa hi paisa hoga’: Memes erupt as Indian creators receive massive payout from Twitter",
     "link": "https://timesofindia.indiatimes.com/articleshow/102576219.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 31,
     "headline": "Gurgaon woman pays Rs 4,811 for dinner, restaurant refuses to remove Rs 401 service charge despite objection; consumer commission says mandatory service charge violates CCPA rules, orders refund and Rs 31,000 compensation",
     "link": "https://timesofindia.indiatimes.com/articleshow/135821949.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 32,
     "headline": "Elderly man loses Rs 22 lakh to digital arrest fraud",
     "link": "https://timesofindia.indiatimes.com/articleshow/135781186.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 33,
     "headline": "Woman buys Rs 1,755 pressure cooker, finds rice and dal remain uncooked despite 3-4 whistles; consumer commission orders refund, Rs 12,000 compensation and Rs 3,000 costs, imposes Rs 21,000 penalty on store and dealer",
     "link": "https://timesofindia.indiatimes.com/articleshow/135787526.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 34,
     "headline": "After killing ex-Tech Mahindra regional head Paramjeet Dhankar, accused shouted, ‘Happy Diwali, I will kill whole family today’",
     "link": "https://timesofindia.indiatimes.com/articleshow/135752250.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 35,
     "headline": "Delhi New York Flight",
     "link": "https://timesofindia.indiatimes.com/articleshow/135823903.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 36,
     "headline": "Himachal Consumer Commission",
     "link": "https://timesofindia.indiatimes.com/articleshow/135824079.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 37,
     "headline": "NFL Trade Deadline",
     "link": "https://timesofindia.indiatimes.com/articleshow/135833976.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 38,
     "headline": "London Homeowner fined",
     "link": "https://timesofindia.indiatimes.com/articleshow/135798013.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 39,
     "headline": "Alabama Land Dispute",
     "link": "https://timesofindia.indiatimes.com/articleshow/135788485.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 40,
     "headline": "US Flight Choas",
     "link": "https://timesofindia.indiatimes.com/articleshow/135821067.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 41,
     "headline": "Fortnite Treasure Hours",
     "link": "https://timesofindia.indiatimes.com/articleshow/135835610.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 42,
     "headline": "Giri Babu Death News",
     "link": "https://timesofindia.indiatimes.com/articleshow/135839000.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 43,
     "headline": "Shah Rukh Khan",
     "link": "https://timesofindia.indiatimes.com/articleshow/135774417.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 44,
     "headline": "Chhath Puja Wishes",
     "link": "https://timesofindia.indiatimes.com/articleshow/135793464.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 45,
     "headline": "Scene Movie Collection",
     "link": "https://timesofindia.indiatimes.com/articleshow/135695775.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 46,
     "headline": "Scene OTT Release",
     "link": "https://timesofindia.indiatimes.com/articleshow/135821475.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 47,
     "headline": "Drishyam 3 Box Office Collection",
     "link": "https://timesofindia.indiatimes.com/articleshow/135819699.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 48,
     "headline": "India Aditya L-1",
     "link": "https://timesofindia.indiatimes.com/articleshow/135707935.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 49,
     "headline": "Spanish Copper Mine",
     "link": "https://timesofindia.indiatimes.com/articleshow/135570922.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 50,
     "headline": "Coastal Defence System",
     "link": "https://timesofindia.indiatimes.com/articleshow/135564169.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 51,
     "headline": "Dead Sea Scrolls",
     "link": "https://timesofindia.indiatimes.com/articleshow/135527626.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 52,
     "headline": "3800 Year Old Woman Letter",
     "link": "https://timesofindia.indiatimes.com/articleshow/135518742.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 53,
     "headline": "Poland Vampire Burial",
     "link": "https://timesofindia.indiatimes.com/articleshow/135502518.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 54,
     "headline": "Captions For Instagram Posts",
     "link": "https://timesofindia.indiatimes.com/articleshow/130895681.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 55,
     "headline": "Navi Mumbai Suicide",
     "link": "https://timesofindia.indiatimes.com/articleshow/135820425.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 56,
     "headline": "Kerala Consumer Panel",
     "link": "https://timesofindia.indiatimes.com/articleshow/135790253.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 57,
     "headline": "Mumbai Local Train harassment",
     "link": "https://timesofindia.indiatimes.com/articleshow/135786601.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 58,
     "headline": "Sukhdeep Singh Chhina",
     "link": "https://timesofindia.indiatimes.com/articleshow/135788864.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 59,
     "headline": "Rupee Exchange Rate",
     "link": "https://timesofindia.indiatimes.com/articleshow/135670806.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 60,
     "headline": "Upcoming Samsung Smartphones",
     "link": "https://timesofindia.indiatimes.com/articleshow/135824224.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 61,
     "headline": "Best Foldable Samsung Smartphones",
     "link": "https://timesofindia.indiatimes.com/articleshow/135825899.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 62,
     "headline": "Microsoft 365 Outage",
     "link": "https://timesofindia.indiatimes.com/articleshow/135790001.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 63,
     "headline": "Microsoft Outage Status",
     "link": "https://timesofindia.indiatimes.com/articleshow/135789407.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 64,
     "headline": "Google Gemini 4 Hydrogen",
     "link": "https://timesofindia.indiatimes.com/articleshow/135797173.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 65,
     "headline": "Hazaribag man drowns while fishing in lake",
     "link": "https://timesofindia.indiatimes.com/articleshow/130060093.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 66,
     "headline": "\"Behen Darr Gayi!\": Fans relive ‘Bhagam Bhag’ era after watching Akshay Kumar's 'Bhooth Bangla' trailer",
     "link": "https://timesofindia.indiatimes.com/articleshow/130060027.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 67,
     "headline": "MBOSE HSLC result 2026 to release tomorrow: Check details here",
     "link": "https://timesofindia.indiatimes.com/articleshow/130059814.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 68,
     "headline": "Iran war risk: JPMorgan CEO Jamie Dimon warns of oil shocks, sticky inflation and higher interest rates",
     "link": "https://timesofindia.indiatimes.com/articleshow/130059993.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 69,
     "headline": "Make your clutch last longer with these easy driving tips",
     "link": "https://timesofindia.indiatimes.com/articleshow/130052232.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 70,
     "headline": "“Three-against-one situation”: El Rubius opens up on being “targeted” in MrBeast’s viral $1M challenge",
     "link": "https://timesofindia.indiatimes.com/articleshow/130054402.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 71,
     "headline": "Bihar BTSC lab assistant notification released for 1091 posts at btsc.bihar.gov.in; apply here",
     "link": "https://timesofindia.indiatimes.com/articleshow/130059322.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 72,
     "headline": "IPL craze costs techie Rs 1.46 lakh in fake RCB vs CSK ticket scam",
     "link": "https://timesofindia.indiatimes.com/articleshow/130059549.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 73,
     "headline": "Raising “robot-proof” kids: Why creativity and curiosity matter more than ever",
     "link": "https://timesofindia.indiatimes.com/articleshow/130057342.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 74,
     "headline": "Inside ‘Satguru Sharan’: Exploring Saif Ali Khan and Kareena Kapoor Khan’s Rs 100 crore Bandra home",
     "link": "https://timesofindia.indiatimes.com/articleshow/130059584.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 75,
     "headline": "How selling Alaska in 1867 was a costly mistake for Russia",
     "link": "https://timesofindia.indiatimes.com/articleshow/130057081.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 76,
     "headline": "'Hera Pheri 3 is coming': Paresh Rawal dismisses delay reports and reveals he will 'start shooting soon'",
     "link": "https://timesofindia.indiatimes.com/articleshow/130059421.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 77,
     "headline": "US-Iran War: A daring rescue Hollywood blockbuster is on its way. Till then, pick your favourite from these 10 films on bringing someone home against all odds",
     "link": "https://timesofindia.indiatimes.com/articleshow/130059208.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 78,
     "headline": "Kolkata team unveils fan mural at Rash Behari Avenue, celebrating city’s first love",
     "link": "https://timesofindia.indiatimes.com/articleshow/130059554.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 79,
     "headline": "How US spread a lie to rescue a pilot of a jet shot down in Iran",
     "link": "https://timesofindia.indiatimes.com/articleshow/130058641.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 80,
     "headline": "Netflix unveils ‘VOID’, an AI model that can change a movie plot",
     "link": "https://timesofindia.indiatimes.com/articleshow/130058880.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 81,
     "headline": "AI data centers are causing 'stress' not just to tech companies, but also private insurers",
     "link": "https://timesofindia.indiatimes.com/articleshow/130058967.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "TOI Viral News",
     "rank": 82,
     "headline": "\"Trans women are.....\": Clavicular’s viral moment with trans women sparks fresh conversation on internet culture",
     "link": "https://timesofindia.indiatimes.com/articleshow/130053479.cms",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 1,
     "headline": "All India News",
     "link": "https://www.ndtv.com/india",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 2,
     "headline": "AI Helps Reunite Missing Maharashtra Woman With Family After 2.5 Years",
     "link": "https://www.ndtv.com/india-news/ai-helps-reunite-missing-maharashtra-woman-with-family-after-2-5-years-12327942",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 3,
     "headline": "2 Buses Of Punjab Pilgrimage Scheme Collide, 5 Killed In Tarn Taran",
     "link": "https://www.ndtv.com/india-news/2-buses-of-punjab-pilgrimage-scheme-collide-5-killed-in-tarn-taran-12327936",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 4,
     "headline": "Man Seen Eating Dead Dog's Entrails On Highway, Locals Seek Aid For Him",
     "link": "https://www.ndtv.com/india-news/man-seen-eating-dead-dogs-entrails-on-highway-locals-seek-aid-for-him-12327908",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 5,
     "headline": "\"Where We Offered Namaz\": Asaduddin Owaisi On Akhilesh Yadav's Ayodhya Visit",
     "link": "https://www.ndtv.com/india-news/where-we-offered-namaz-for-400-years-asaduddin-owaisi-on-akhilesh-yadavs-ram-temple-visit-plan-12327901",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 6,
     "headline": "Influencer Arrested Over 10.5 kg Gold Heist. She Knew Where Jewels Were",
     "link": "https://www.ndtv.com/india-news/influencer-arrested-over-madurai-gold-heist-she-knew-where-jewels-were-hidden-12327774",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 7,
     "headline": "SBI Clerk Prelims Result 2026: Check Expected Date, How To Download",
     "link": "https://www.ndtv.com/education/sbi-clerk-prelims-result-2026-check-expected-date-how-to-download-12327058",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 8,
     "headline": "AIBE XXII Admit Card 2026 Out: Know Important Exam Instructions, Other Details",
     "link": "https://www.ndtv.com/education/aibe-xxii-admit-card-2026-out-know-important-exam-instructions-other-details-12326828",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 9,
     "headline": "Rajasthan Board 2027 Exams: Class 10, 12 Papers Deferred Due To Census",
     "link": "https://www.ndtv.com/education/rajasthan-board-2027-exams-class-10-12-papers-deferred-due-to-census-12326593",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 10,
     "headline": "Karnataka CET 2027: KEA Releases Detailed Subject-Wise Syllabus PDFs",
     "link": "https://www.ndtv.com/education/karnataka-cet-2027-kea-releases-detailed-subject-wise-syllabus-pdfs-12326299",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 11,
     "headline": "Where Freedom Fighters Died, IIT Kharagpur Now Prepares To Train Doctors",
     "link": "https://www.ndtv.com/education/where-freedom-fighters-suffered-and-died-doctors-will-now-be-trained-iit-kharagpur-creates-medical-history-12325955",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 12,
-    "headline": "November 15,2026 12:29 am IST",
+    "headline": "November 15,2026 05:17 am IST",
     "link": "https://www.ndtv.com/weather",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 13,
-    "headline": "US Briefly Grounds All Departing Flights, 2nd Such Move Since 9/11",
-    "link": "https://www.ndtv.com/world-news/us-grounds-all-departing-flights-due-to-communication-issue-impacting-all-air-traffic-control-centres-12324537",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Student Of The Year - After Dark Review: Shanaya Kapoor's Thriller Is A Mess",
+    "link": "https://www.ndtv.com/entertainment/student-of-the-year-after-dark-review-shanaya-kapoors-thriller-is-an-exhausting-gen-z-mess-with-little-to-offer-2-5-stars-12325637",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 14,
-    "headline": "Munawar Faruqui Felt Disgusted With Himself After Bigg Boss 17",
-    "link": "https://www.ndtv.com/entertainment/munawar-faruqui-reveals-dark-days-after-bigg-boss-17-win-says-i-locked-myself-12326089",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Whatever Happened To Sharad Kapoor? Shah Rukh Khan's Josh Rival Is Viral Again",
+    "link": "https://www.ndtv.com/entertainment/whatever-happened-to-sharad-kapoor-shah-rukh-khans-josh-rival-is-viral-again-12325954",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 15,
-    "headline": "Ramayana Beats Chhaava's Lifetime India Haul, Crosses Rs 1,100 Crore Mark",
-    "link": "https://www.ndtv.com/entertainment/ramayana-box-office-collection-day-9-ranbir-kapoor-film-beats-chhaavas-lifetime-india-collection-crosses-rs-1-100-crore-worldwide-12325154",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Sai Picks Her Favourite Sita Look From Ramayana , Recalls Scene With Ranbir",
+    "link": "https://www.ndtv.com/entertainment/sai-pallavis-favourite-sita-look-from-ramayana-features-a-special-moment-with-ram-12326073",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 16,
-    "headline": "Gurpreet Ghuggi On Love Gill's Bigg Boss 20 Stint, Here's What He Said",
-    "link": "https://www.ndtv.com/entertainment/gurpreet-ghuggi-breaks-silence-on-love-gills-bigg-boss-20-stint-amid-affair-controversy-12325961",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "US Woman Got First Passport At 91, Visits All Seven Continents By 96",
+    "link": "https://www.ndtv.com/offbeat/us-woman-got-her-first-passport-at-91-now-at-96-she-has-visited-all-seven-continents-12326678",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 17,
     "headline": "Imtiaz Ali On Why Studios Doubted Ranveer Singh's Dhurandhar",
     "link": "https://www.ndtv.com/entertainment/dhurandhar-was-the-most-impractical-film-imtiaz-ali-on-why-studios-doubted-ranveer-singhs-film-12327107",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 18,
-    "headline": "Workers Defecate In Shopping Aisles As AI Tracks Bathroom Breaks",
-    "link": "https://www.ndtv.com/world-news/new-zealand-workers-defecate-in-shopping-aisles-as-ai-tracks-bathroom-breaks-12324792",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Indian Student Jailed For 30 Years In UK For Grooming Girls Online",
+    "link": "https://www.ndtv.com/world-news/indian-student-jailed-for-30-years-in-uk-for-grooming-girls-online-12324785",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 19,
-    "headline": "Moushumi Chatterjee's Husband Jayanta's Prayer Meet To Be Held On November 15",
-    "link": "https://www.ndtv.com/entertainment/moushumi-chatterjees-husband-jayanta-mukherjees-prayer-meet-to-be-held-on-november-15-12325176",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Inside Pictures From Anirudh Ravichander, Kavya Maran's Greece Wedding",
+    "link": "https://www.ndtv.com/entertainment/inside-pictures-from-anirudh-ravichander-kavya-marans-greece-wedding-12313806",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 20,
-    "headline": "\"You Should Be Ashamed\": Mukesh Khanna Slams Sai Pallavi's 'Fighter Sita' In Ramayana",
-    "link": "https://www.ndtv.com/entertainment/you-should-be-ashamed-mukesh-khanna-slams-sai-pallavis-fighter-sita-in-ramayana-12307444",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "'Without Jensen Huang, Handshake Deals Will Be Lost': Musk Warns Nvidia",
+    "link": "https://www.ndtv.com/world-news/without-jensen-huang-handshake-deals-will-be-lost-elon-musk-warns-nvidia-12327904",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 21,
-    "headline": "Dengue fever: Causes, Symptoms, Diagnosis and Treatment",
-    "link": "https://www.ndtv.com/health/diseases-conditions/dengue-fever",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Latest News Today",
+    "link": "https://www.ndtv.com/latest",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 22,
-    "headline": "Months Before Separation, Anna Konidala Revealed Why She Took Pawan Kalyan's Surname",
-    "link": "https://www.ndtv.com/entertainment/months-before-separation-anna-konidala-revealed-why-she-took-pawan-kalyans-surname-12308315",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Education News India",
+    "link": "https://www.ndtv.com/education",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 23,
-    "headline": "'What Happened To You?': Sharad Kapoor's Health Sparks Concern After Viral Video",
-    "link": "https://www.ndtv.com/entertainment/i-cannot-live-without-them-actor-sharad-kapoor-gets-emotional-over-pet-dogs-being-moved-to-animal-welfare-12321497",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Latest Business News",
+    "link": "https://www.ndtv.com/business-news",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 24,
-    "headline": "\"Driver May Have Suffered Stroke Before Kaziranga Crash That Killed 26\": Himanta Sarma",
-    "link": "https://www.ndtv.com/india-news/driver-may-have-suffered-stroke-before-kaziranga-crash-that-killed-26-assam-chief-minister-himanta-biswa-sarma-12325999",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Global Outage Hits Microsoft, Outlook",
+    "link": "https://www.ndtv.com/world-news/is-outlook-down-widespread-outage-hits-microsoft-apps-12319777",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 25,
-    "headline": "Shooter Who Killed Mad Sandhu Arrested, Wanted To Attack Bollywood Actor",
-    "link": "https://www.ndtv.com/india-news/shooter-who-killed-mad-sandhu-arrested-wanted-to-attack-bollywood-actor-12327585",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Jensen Huang Had Affair",
+    "link": "https://www.ndtv.com/world-news/exclusive-former-nvidia-ceo-huang-had-a-relationship-with-a-second-employee-sources-say-12319696",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 26,
-    "headline": "Karnataka Woman, Presumed Dead, Found Alive After 7 Years By Her 'Murderer'",
-    "link": "https://www.ndtv.com/india-news/karnataka-woman-presumed-dead-found-alive-after-7-years-by-her-murderer-12326644",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "headline": "Delhi Traffic Police Announce Restrictions",
+    "link": "https://www.ndtv.com/delhi-news/delhi-traffic-police-announce-restrictions-diversions-for-chhath-puja-12319760",
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   },
   {
     "source": "NDTV",
     "rank": 27,
-    "headline": "Complainant Found Dead Inside Tamil Nadu Police Toilet, Suicide Suspected",
-    "link": "https://www.ndtv.com/india-news/complainant-found-dead-inside-tamil-nadu-police-toilet-suicide-suspected-12326032",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
-  },
-  {
-    "source": "NDTV",
-    "rank": 28,
-    "headline": "Latest News Today",
-    "link": "https://www.ndtv.com/latest",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
-  },
-  {
-    "source": "NDTV",
-    "rank": 29,
-    "headline": "Education News India",
-    "link": "https://www.ndtv.com/education",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
-  },
-  {
-    "source": "NDTV",
-    "rank": 30,
-    "headline": "Latest Business News",
-    "link": "https://www.ndtv.com/business-news",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
-  },
-  {
-    "source": "NDTV",
-    "rank": 31,
-    "headline": "Global Outage Hits Microsoft, Outlook",
-    "link": "https://www.ndtv.com/world-news/is-outlook-down-widespread-outage-hits-microsoft-apps-12319777",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
-  },
-  {
-    "source": "NDTV",
-    "rank": 32,
-    "headline": "Jensen Huang Had Affair",
-    "link": "https://www.ndtv.com/world-news/exclusive-former-nvidia-ceo-huang-had-a-relationship-with-a-second-employee-sources-say-12319696",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
-  },
-  {
-    "source": "NDTV",
-    "rank": 33,
-    "headline": "Delhi Traffic Police Announce Restrictions",
-    "link": "https://www.ndtv.com/delhi-news/delhi-traffic-police-announce-restrictions-diversions-for-chhath-puja-12319760",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
-  },
-  {
-    "source": "NDTV",
-    "rank": 34,
     "headline": "US Flight Shutdown Live Updates",
     "link": "https://www.ndtv.com/world-news/us-flight-shutdown-live-updates-flights-halted-at-airports-across-us-due-to-air-traffic-control-communications-problems-12324589",
-    "collected_at_iso": "2026-11-14T18:59:14+00:00"
+    "collected_at_iso": "2026-11-14T23:46:56+00:00"
   }
 ]
